@@ -14,7 +14,7 @@ The **Shop Server** project is a backend system built with **Node.js** and **Exp
 ## Installation
 
 ```sh
-git clone https://github.com/your-repo/shop_server.git
+git clone https://github.com/TranCuong7/shop_server.git
 cd shop_server
 npm install
 ```

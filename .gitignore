@@ -1,0 +1,15 @@
+/node_modules
+/uploads
+.env
+.htaccess
+package-lock.json
+ecosystem.config.js
+.DS_Store
+.idea
+src/assets/*
+.vscode
+docker-compose.yml
+Dockerfile
+
+/src/storage/tmp
+/src/public/*
